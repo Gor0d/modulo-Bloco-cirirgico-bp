@@ -18,3 +18,7 @@ Normas de Higiene e Limpeza: Diretrizes rigorosas de higiene e limpeza para mant
 Gerenciamento de Emergências: Protocolos para situações de emergência, garantindo uma resposta rápida e eficaz diante de cenários críticos.
 
 Políticas de Acesso e Segurança: Informações sobre as políticas de acesso, controle de entrada e medidas de segurança para manter a integridade do Bloco Cirúrgico II.
+
+# Objetivo
+
+O objetivo do módulo do Centro Cirúrgico inicialmente é automatizar e informatizar os processos e ações realizados não apenas dentro do Centro Cirúrgico mas também na Farmácia Satélite, NIR e Faturamento. 
